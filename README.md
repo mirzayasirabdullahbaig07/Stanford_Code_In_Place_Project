@@ -55,10 +55,10 @@ This final project brought all these skills together into a complete, working pr
 
 ## 💡 Importance of This Project
 
-- 🧠 Reinforces logical thinking and condition-based programming
-- 🗂️ Demonstrates file handling in Python
-- 💬 Shows how to build real, interactive software using basic concepts
-- 🎓 Represents my growth from beginner to independent coder in 2 months!
+- 🧠 Reinforces logical thinking and condition-based programming  
+- 🗂️ Demonstrates file handling in Python  
+- 💬 Shows how to build real, interactive software using basic concepts  
+- 🎓 Represents my growth from beginner to independent coder in 2 months!  
 
 This project is a reflection of what consistent learning, mentorship, and practice can achieve—even in a short time.
 
@@ -70,7 +70,13 @@ Huge thanks to **Stanford University**, the **Code in Place teaching team**, and
 
 ---
 
-## 📎 How to Run
+## 📬 Contact Me
 
-```bash
-python library_system.py
+Feel free to connect or reach out through the links below:
+
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)
+- 📹 [**YouTube (Project Demo)**](https://youtu.be/_QznKQDnVpo?si=3ElwO4MHlr-3Wn_8)
+- 📧 **Email:** yasirabdullah4549@gmail.com  
+- 📊 [**Kaggle Profile**](https://www.kaggle.com/mirzayasirabdullah07)  
+- 🌐 [**Portfolio Website**](https://yasirinsights.com)  
+- 📱 **Phone/WhatsApp:** +92 322 7297049
